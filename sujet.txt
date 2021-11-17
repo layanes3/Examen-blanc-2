@@ -1,0 +1,33 @@
+Vous trouverez dans le dossier le fichier 
+ - un fichier « accueil_greenit.psd » : c'est la maquette de la version desktop
+ - un fichier « index.html » : une ébauche de la page html
+ - un dossier « fonts » qui contient des polices
+
+
+Partie 1 : 
+ - Installez les polices sur votre ordinateur
+ - Exportez les éléments dont vous aurez besoin depuis la maquette "accueil_greenit.psd" (illustrations, icones, etc.)
+
+Partie 2 :
+- Créez un logo représentant une feuille d'arbre sous illustrator
+- Créez une icone représentant une loupe de barre de recherche sous illustrator
+- Faire la maquette pour le media queries maxi 400px 
+- intégrez votre logo au titre « Green it »
+- Enregistrez cette maquette sous le nom « accueil_greenit_mob.psd » 
+
+Partie 3 : 
+ - Finir l'intégration et le css de la maquette desktop container de 980px;
+ - Faire le css du responsive maxi 400px en respectant votre maquette
+ - Intégrez un menu responsive, vous pouvez par exemple adapter celui-là : https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_topnav
+
+
+Enregistrez votre travail dans un dossier nommŽ [initial prŽnom+nom]_entrainement.
+Ce dossier doit contenir :
+votre maquette accueil_greenit_mob.psd
+un sous-dossier nommŽ "green-it" qui contient les ŽlŽments de l'intŽgration :
+la page index.html
+la (ou les) feuille(s) de style
+le (ou les) fichier(s) scripts
+le dossier images
+le dossier polices
+les autres Žventuels ŽlŽments nŽcessaires ˆ l'affichage de la page web
