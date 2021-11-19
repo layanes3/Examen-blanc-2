@@ -5,40 +5,41 @@
 3 heures
 
 ## Éléments à votre disposition
-* Un fichier `accueil_greenit.psd` : c'est la maquette de la version desktop ;
-* Un fichier `index.html` : une ébauche de la page html ;
-* Un dossier `fonts` qui contient des polices.
+* Un fichier `desktop.jpg` : c'est la maquette de la version desktop ;
+* Un dossier `fonts` qui contient des polices ;
+* Un dossier `projet` : contenant votre travail.
+
+## Informations
+
+* Les deux seules polices utilisées sont `Source Sans Pro` et `Anton Regular` ;
+* La taille de la police :
+  * Le menu est de `34px` ;
+  * Le titre de `115px` ;
+  * Le nom de la personne dans la carte est de `27px` ;
+  * Les autres polices sont à `18px`.
+* En mode `responsive`, le menu doit se transformer en menu `burger`, dont l'icône devra être disposée à droite ;
+* Le mode `responsive` doit s'activer à partir de `768px` de large, pour un minimum de `480px` de large ;
+* **Vous pouvez vous aider d'un framework comme Bootstrap, Foundation ou Material Design.**
 
 ## Tâches à réaliser
 
-### Partie 1
-* Installez les polices sur votre ordinateur ;
-* Exportez les éléments dont vous aurez besoin depuis la maquette `accueil_greenit.psd` (illustrations, icones, etc.).
-
-### Partie 2
-* Créez un logo représentant une feuille d'arbre sous illustrator ;
-* Créez une icone représentant une loupe de barre de recherche sous illustrator ;
-* Faire la maquette pour le media queries maxi 400px ;
-* Intégrez votre logo au titre `Green it` ;
-* Enregistrez cette maquette sous le nom `accueil_greenit_mob.psd`.
-
-### Partie 3
-* Finir l'intégration et le css de la maquette desktop container de 980px ;
-* Faire le css du responsive maxi 400px en respectant votre maquette ;
-* Intégrez un menu responsive, vous pouvez par exemple adapter celui-là : https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_topnav.
+* Réalisez une maquette responsive, déclinée de la maquette desktop et enregistrez-la sous le nom `mobile.psd` ;
+* Réalisez le logo de la souris en haut à gauche (cf : `desktop.jpg`), exporté au format `.svg` ;
+* Réalisez l'intégration des maquettes.
 
 # Conseil
 **Priorisez les tâches, ne perdez pas de temps sur une tâche que vous n'arrivez pas à faire.**
-Rationnalisez votre travail en réalisant d'abord ce que vous savez faire ou ce qui sera plus dur à faire si vous avez réalisé d'autres tâches avant.
+Rationalisez votre travail en réalisant d'abord ce que vous savez faire ou ce qui sera plus dur à faire si vous avez réalisé d'autres tâches avant.
 
-# Rendu attendu
+# Livrables
 Enregistrez votre travail dans un dossier nommé `[initial prénom+nom]_entrainement`.
 Ce dossier doit contenir :
-* Votre maquette `accueil_greenit_mob.psd` ;
-* Un sous-dossier nommé `green-it` qui contient les éléments de l'intégration :
-  * La page index.html ;
+* Votre maquette `mobile.psd` ;
+* Un sous-dossier nommé `projet` qui contient les éléments de l'intégration :
+  * La page `index.html` ;
+  * Le logo au format `.svg` ;
   * La (ou les) feuille(s) de style ;
   * Le (ou les) fichier(s) scripts ;
-  * Le dossier images ;
-  * Le dossier polices ;
+  * Le dossier `images` ;
+  * Le dossier `fonts` ;
   * Les autres éventuels éléments nécessaires à l'affichage de la page web.
