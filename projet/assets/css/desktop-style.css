@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap');
+/* font-family: 'Anton', sans-serif;
+
+font-family: 'Source Sans Pro', sans-serif; */
+
+@media screen and (min-width: 1080px)
+{
+
+body{
+    font-size: 18px;
+}
+
+
+.nav-desk a{
+    text-decoration: none;
+    color: white;
+    font-size: 34px;
+    font-weight: 600;
+    margin-left: 30px;
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 1px;
+}
+
+nav{
+    width: 100%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin: auto;
+    gap: 30px;
+    background-color: rgb(165, 166, 167);
+    top: 0;
+}
+
+.nav-left, .nav-right{
+    display: none;
+}
+
+header img{
+    width: 100%;
+    margin-top: 50px;
+    position: relative;
+
+}
+
+.card{
+    display: inline-block;
+    background-color: white;
+    margin-left: 77px;
+    margin-bottom: 27px;
+    max-width: 270px;
+    width: 300px;
+    z-index: 3;
+    border-radius: 14px;
+    background-color: rgb(232, 231, 231);
+    padding: 3px;
+    position: relative  float: right;
+    transform: translate( 0%, -170%);
+    margin-bottom: 27px;
+
+}
+
+
+
+
+
+
+
+
+}
